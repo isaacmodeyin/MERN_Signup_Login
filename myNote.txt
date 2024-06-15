@@ -1,0 +1,9 @@
+npm init vite
+
+client
+
+npm install 
+
+SERVER
+
+npm init -y
